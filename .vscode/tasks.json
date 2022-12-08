@@ -10,7 +10,6 @@
                 "${fileDirname}/**.cpp",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.exe",
-                "-L C:/mingw-w64/lib",
                 "-IC:/glew-2.1.0/include",
                 "-LC:/glew-2.1.0/lib/Release/x64",
                 "-IC:/freeglut/include",
