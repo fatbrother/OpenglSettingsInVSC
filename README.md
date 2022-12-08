@@ -5,7 +5,7 @@ This is a simple setup for vscode to use OpenGL with C++.
 ## Requirements
 Download and install the following:
 - [mingw-w64]()
-- [freeglut](https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MinGW.zip)
+- [freeglut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 - [glew](https://sourceforge.net/projects/glew/files/glew/2.1.0/glew-2.1.0-win32.zip/download)
 
 ## Setup
