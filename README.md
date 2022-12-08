@@ -13,5 +13,7 @@ Download and install the following:
 2. Move the .vscode folder into your project folder
 3. Change the include paths in the .vscode/c_cpp_properties.json file to the paths of your mingw-w64
 4. Download the freeglut and glew zip files and extract them into your C:\
-5. Use CTRL+SHIFT+B to build your project
-6. Use the library happily
+5. Use #include <GL/glew.h> and #include <GL/glut.h> to use libraries
+6. Use #include "glm/glm.hpp" and #include "glm/gtc/type_ptr.hpp" to use glm
+7. Use CTRL+SHIFT+B to build your project
+8. Use the library happily
